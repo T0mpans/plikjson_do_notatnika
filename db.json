@@ -1,15 +1,15 @@
 [
     {
-      "tytul":"notatka1"
-      "tresc":"sprawdzam czy pierwsza notatka działa",
-      "data":"05.10.2026"
+      "nazwa":"Euro",
+      "kraj":"Unia Europejska"
+      "wartosc":"4.38"
     },{
-      "tytul":"notatka2"
-      "tresc":"DRUGA NOTATKA",
-      "data":"06.10.2026"
+      "nazwa":"Funt",
+      "kraj":"Wielka Brytania"
+      "wartosc":"5.17"
     },{
-      "tytul":"NOTATKA3"
-      "tresc":"akslfdasdfa",
-      "data":"07.10.2026"
+      "nazwa":"USD",
+      "kraj":"Stany Zjednoczone"
+      "wartosc":"3.91"
     }
 ]
