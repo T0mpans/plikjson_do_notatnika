@@ -1,15 +1,15 @@
 [
     {
       "nazwa":"Euro",
-      "kraj":"Unia Europejska"
+      "kraj":"Unia Europejska",
       "wartosc":4.38
     },{
       "nazwa":"Funt",
-      "kraj":"Wielka Brytania"
+      "kraj":"Wielka Brytania",
       "wartosc":5.17
     },{
       "nazwa":"USD",
-      "kraj":"Stany Zjednoczone"
+      "kraj":"Stany Zjednoczone",
       "wartosc":3.91
     }
 ]
